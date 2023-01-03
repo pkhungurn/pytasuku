@@ -13,13 +13,13 @@ You can just copy the `src/pytasuku` to your source code repository, or you can 
 ### Pip
 
 ```
-pip install git+http://github.com/pkhungurn/pytasuku.git
+pip install git+https://github.com/pkhungurn/pytasuku.git
 ```
 
 ### Poetry
 
 ```
-poetry add git+http://github.com/pkhungurn/pytasuku.git
+poetry add git+https://github.com/pkhungurn/pytasuku.git
 ```
 
 ## What does it do?
