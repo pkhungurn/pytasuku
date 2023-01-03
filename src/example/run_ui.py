@@ -1,6 +1,6 @@
 import logging
 
-import tasks
+from example import tasks
 from pytasuku import Workspace
 from pytasuku.task_selector_ui import run_task_selector_ui
 

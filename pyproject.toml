@@ -6,7 +6,11 @@ authors = ["Pramook Khungurn <pramook@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [
-    { include = "pytasuku", from = "src" }
+    { include = "pytasuku", from = "src" },
+    { include = "example", from = "src"},
+]
+exclude = [
+    "src/example/*"
 ]
 
 [tool.poetry.dependencies]
