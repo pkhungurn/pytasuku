@@ -29,19 +29,19 @@ I use [Poetry](https://python-poetry.org/) to maintain dependencies. Follow the 
 Next, you need to create a Python environment with Python of at least version 3.8. For example, I used [Anaconda](https://www.anaconda.com/) to do the job. After installing Anaconda, I ran the following command in my shell.
 
 ```
-> conda create -n pytasuku python=3.8
+conda create -n pytasuku python=3.8
 ```
 
 Then, you can activate the environment by running the command below.
 
 ```
-> conda activate pytasuku
+conda activate pytasuku
 ```
 
 Next, clone this repository, and change your working directory to the repo's directory. Invoke Poetry to install the package.
 
 ```
-> poetry intall
+poetry intall
 ```
 
 There's example code in the `src/example` directory. Execute
