@@ -8,7 +8,7 @@ The code should work with Python version 3.8 or later. The UI is implemented wit
 
 ## Installation
 
-You can copy the `src/pytasuku` to your source code repository. You can also install it with pip.
+You can just copy the `src/pytasuku` to your source code repository, or you can also install it with pip.
 
 ### Pip
 
@@ -44,7 +44,7 @@ Next, clone this repository, and change your working directory to the repo's dir
 > poetry intall
 ```
 
-There's example code in the `example` directory. Execute
+There's example code in the `src/example` directory. Execute
 
 ```
 poetry run python src/example/run_ui.py
