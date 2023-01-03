@@ -8,7 +8,7 @@ The code should work with Python version 3.8 or later. The UI is implemented wit
 
 ## Installation
 
-You can just copy the `src/pytasuku` to your source code repository, or you can also install it with pip.
+You can just copy the `src/pytasuku` to your source code repository, or you can also install it with the following tools.
 
 ### Pip
 
